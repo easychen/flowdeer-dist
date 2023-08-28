@@ -6,6 +6,10 @@
 
 ![](images/20230828102711.png)
 
+## 内测交流群·微信
+
+![](images/20230828134907.png)
+
 ## 功能简介
 
 https://github.com/easychen/flowdeer-dist/assets/1294760/304491c6-bf2f-4dc3-aecb-1435e934aad5
