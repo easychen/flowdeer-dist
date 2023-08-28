@@ -33,4 +33,5 @@ It will be available after the internal testing is completed, and it will suppor
 ### Deployment to any host
 
 1. Download the code from this repository.
-2. The [docs](./docs/) directory contains the code for the standalone deployment version, which can be copied to a server that supports static web pages or object storage.
+1. The [docs](./docs/) directory contains the code for the standalone deployment version, which can be copied to a server that supports static web pages or object storage.
+1. The server need to support WASM files.
