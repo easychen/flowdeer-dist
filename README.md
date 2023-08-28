@@ -8,6 +8,9 @@
 
 ## 功能简介
 
+https://github.com/easychen/flowdeer-dist/assets/1294760/304491c6-bf2f-4dc3-aecb-1435e934aad5
+
+
 ## 使用教程
 
 ![](images/20230828105059.png)
