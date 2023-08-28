@@ -6,7 +6,9 @@
 
 ![](images/20230828102643.png)
 
-## Function Introduction
+## Feature
+
+https://github.com/easychen/flowdeer-dist/assets/1294760/304491c6-bf2f-4dc3-aecb-1435e934aad5
 
 ## User Tutorial
 
