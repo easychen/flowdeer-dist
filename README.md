@@ -4,7 +4,7 @@
 
 > 本仓库用于FlowDeer在线版的hosting，独立部署版、客户端的下载和客服
 
-![](images/20230828102711.png)
+<img width="1361" alt="image" src="https://github.com/easychen/flowdeer-dist/assets/1294760/62875911-21e9-4c66-ab65-8abf7a2a9056">
 
 ## 内测交流群·微信
 
