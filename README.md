@@ -1,12 +1,18 @@
-# FlowDeer - AI tools for complex workflows and deep thoughts
+# FlowDeer Tree - AI tools for complex workflows and deep thoughts
 
 [简体中文](README.md) | [English](README_EN.md)
 
-> 本仓库用于FlowDeer在线版的hosting，独立部署版、客户端的下载和客服
+> 本仓库用于FlowDeer Tree在线版的hosting，独立部署版的下载
 
-<img width="1361" alt="image" src="https://github.com/easychen/flowdeer-dist/assets/1294760/62875911-21e9-4c66-ab65-8abf7a2a9056">
 
-# 2.0 开始内测
+![](images/20250221163853.png)
+
+# 3.0.1
+
+- 支持DeepSeek R1，显示思考链
+
+
+# 2.0
 
 - 任务支持分拆到AI成员，任务名称使用 @成员::场景 可以直接指派
 - 支持前一个任务结论作为上下文
@@ -17,13 +23,6 @@
 - \[Pro\]支持调用外部API（插件）
 - \[Pro\]支持自定义默认任务分拆、任务执行、总结和重写输出的提示词
 
-## 内测交流群·微信
-
-![](images/20230828134907.png)
-
-## 功能简介
-
-https://github.com/easychen/flowdeer-dist/assets/1294760/304491c6-bf2f-4dc3-aecb-1435e934aad5
 
 
 ## 使用教程
@@ -34,13 +33,7 @@ https://github.com/easychen/flowdeer-dist/assets/1294760/304491c6-bf2f-4dc3-aecb
 
 ## 在线版
 
-可访问 [f.ai0c.com](https://f.ai0c.com) 使用，该站点部署在GitHub，如果访问较慢，可以下载独立部署版执行部署。
-
-## 客户端
-
-内测完成后提供，将支持
-- Windows ( 64位，win7以上系统 )
-- Mac( intel / arm 架构 )
+可访问 [fdt.level06.com](https://fdt.level06.com) 使用，该站点部署在GitHub，如果访问较慢，可以下载独立部署版执行部署。
 
 ## 独立部署版
 
