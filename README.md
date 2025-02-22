@@ -1,4 +1,5 @@
-# FlowDeer Tree - AI tools for complex workflows and deep thoughts
+# FlowDeer Tree 
+AI tools for complex workflows and deep thoughts
 
 [简体中文](README.md) | [English](README_EN.md)
 
