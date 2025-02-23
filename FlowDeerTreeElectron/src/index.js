@@ -15,7 +15,7 @@ const createWindow = () => {
       preload: path.join(__dirname, 'preload.js'),
     },
     icon: path.join(__dirname, 'site', 'fd-logo.png'),
-    frame: false,
+    // frame: false,
   });
 
   // and load the index.html of the app.

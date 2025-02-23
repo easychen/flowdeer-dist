@@ -1,8 +1,8 @@
 {
   "name": "flowdeertreeelectron",
-  "productName": "flowdeertreeelectron",
-  "version": "1.0.0",
-  "description": "My Electron application description",
+  "productName": "FlowDeerTree",
+  "version": "3.0.3",
+  "description": "AI Tool for deep thinking",
   "main": "src/index.js",
   "scripts": {
     "start": "electron-forge start",
