@@ -2,9 +2,18 @@
   "$schema": "../gen/schemas/desktop-schema.json",
   "identifier": "default",
   "description": "Capability for the main window",
-  "windows": ["main"],
+  "windows": [
+    "main"
+  ],
   "permissions": [
     "core:default",
-    "opener:default"
+    "opener:default",
+    "upload:default",
+    "fs:default",
+    "fs:allow-app-write",
+    "fs:allow-app-read",
+    "fs:allow-app-write-recursive",
+    "fs:allow-download-read-recursive",
+    "fs:allow-download-write-recursive"
   ]
 }
